@@ -28,7 +28,7 @@ Here is our Patient Monitoring chatbot, this bot can perform the following tasks
 To reduce doctors and health care workers to be affected by Covid-19 spread. The chatbot can also be used to chat with the patients, to make fun with them. The chatbot is used to analyze the stress level of patients and indicate them.
 
 
-## Technologies used
+## Technologies and libraries used
  Python:
 ```
   import datetime
@@ -62,15 +62,18 @@ To reduce doctors and health care workers to be affected by Covid-19 spread. The
  ```
  
 
-
-
 ## Installation of source code from Github
 
 ```
 git clone https://github.com/pradeep2002/Patient-monitoring-Chatbot.git
-cd Chatbot
+cd Patient-monitoring-Chatbot
 python setup.py install
 ```
+
+## Datasets
+Datasets are already available in this repository.It is enough to train the chatbot.You can also change the dataset according to users convenience .
+Orelse if you want to download datasets you may refer,
+https://github.com/microsoft/BotBuilder-PersonalityChat/blob/master/CSharp/Datasets/README.md
 
 
 
@@ -89,8 +92,3 @@ python setup.py install
 4. Can't recognize voice properly
    Pronounce correctly in English.
    
-   
-   ## Datasets
-Datasets are already available in this repository.It is enough to train the chatbot.You can also change the dataset according to users convenience .
-Orelse if you want to download datasets you may refer,
-https://github.com/microsoft/BotBuilder-PersonalityChat/blob/master/CSharp/Datasets/README.md
