@@ -18,11 +18,11 @@ In this Patient Monitoring chatbot following tasks are performed
 
 
 ## Scope of the project
-* Fully voice based chatbot.
-* Can send and read email of patients.
+* Fully voice based chatbot STTS.
+* Can send and read email of patients using gmail.
 * Can send emergency message to doctor.
-* Tests mental-stress analysis of patients.
-* Helps to know current top news in India.
+* Test for mental-stress analysis of patients are taken and sent to doctor.
+* Helps to know current news in India by accessing Times of India website.
 
 
 
