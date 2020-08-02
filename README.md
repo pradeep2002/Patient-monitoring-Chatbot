@@ -19,10 +19,11 @@ In this Patient Monitoring chatbot following tasks are performed
 
 ## Scope of the project
 * Fully voice based chatbot.
-* Tests mental-stress analysis of patients.
-* Helps to know current top news in India.
 * Can send and read email of patients.
 * Can send emergency message to doctor.
+* Tests mental-stress analysis of patients.
+* Helps to know current top news in India.
+
 
 
 ## Goals of the chatbots
