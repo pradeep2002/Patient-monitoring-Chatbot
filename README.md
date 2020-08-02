@@ -66,7 +66,7 @@ import Pyaudio
 ```
 git clone https://github.com/pradeep2002/Patient-monitoring-Chatbot.git
 cd Patient-monitoring-Chatbot
-python setup.py install
+cd main.py
 ```
 
 ## Datasets
