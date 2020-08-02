@@ -31,17 +31,7 @@ https://github.com/microsoft/BotBuilder-PersonalityChat/blob/master/CSharp/Datas
 * Pycharm 
 * Git 
 
-## Installation 
-### For Windows users
-```
-pip install nltk
-pip install texblob
-pip install speech_recognition
-pip install pttsx3
-pip install pyaudio
-pip install email
-pip install datetime
-```
+
 ## Installation of source code from Github
 
 ```
