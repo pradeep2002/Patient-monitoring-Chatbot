@@ -1,0 +1,19 @@
+#Computational 
+numpy
+pandas
+
+# NLP 
+nltk
+textblob 
+
+# Voice Input and Ouput - STTS
+SpeechRecognition
+pyttsx3
+
+#Web Scrabing
+beautifulsoup4
+requests
+
+#Gmail Access
+smtplib
+imaplib
