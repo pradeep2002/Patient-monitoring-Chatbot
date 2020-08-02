@@ -1,10 +1,19 @@
-# Patient-monitoring-Chatbot
+# Patient Monitoring Chatbot
 
-## Problem statement and Solution
-In this corona, pandemic situation many doctors and health care workers are been affected by Covid-19. The reason is the doctor needs to constantly monitor the blood pressure, the oxygen level in the blood, body temperature of the patient. So the health care workers and doctors are often visiting the Covid-19 affected patients to measure body temperature, blood pressure, etc…. 
+In this Covid-19 pandemic situation, many doctors and health care workers are being affected by this virus. Since they need to interact to know about the patient’s body conditions with time. So the method of interaction will be lost when the contact between the patient is reduced. Here comes our Patient Monitoring chatbot to overcome this problem by performing a set of tasks.
 
+## Task Performed
+Here is our Patient Monitoring chatbot, this bot can perform the following tasks
 
-So Patient monitoring robot is widely used in the hospitals to measure blood pressure, body temperature, etc..  The robot acts as an assistant for health care workers and doctors. To make the robot effective and useful some kind of interaction is necessary between the patients and doctors. So AI-powered chatbots came into the role. This chatbot is essential to make the robot completely suited for a hospital environment.
+* The chatbot is activated only when the wake word is said for example (“Hey PM Robot”).
+* The chatbot then asks for the room number so that it can be used to store the data of the particular patient in that room.
+* Patients can also start chatting with the bot like greeting it, chitchat, etc.
+* The chatbot is very helpful in reporting the blood pressure, pulse rate, and oxygen level in the blood to the doctor.
+* Under the emergency situation, the chatbot will send emergency notifications to the doctor.
+* Since the patients are isolated and they are getting stressed very easily,  the chatbot will take a stress test and will report the result to the doctor.
+* The chatbot could also send messages to the doctor and read the messages from the patient’s inbox.
+* The chatbot will also help the patients with getting the headlines from “The Times of India”  news.
+* The chatbot is also capable of telling the current date and time.
 
 
 ## Scope of the project
@@ -19,23 +28,46 @@ So Patient monitoring robot is widely used in the hospitals to measure blood pre
 To reduce doctors and health care workers to be affected by Covid-19 spread. The chatbot can also be used to chat with the patients, to make fun with them. The chatbot is used to analyze the stress level of patients and indicate them.
 
 
-
-## Datasets
-Datasets are already available in this repository.It is enough to train the chatbot.You can also change the dataset according to users convenience .
-Orelse if you want to download datasets you may refer,
-https://github.com/microsoft/BotBuilder-PersonalityChat/blob/master/CSharp/Datasets/README.md
-
 ## Technologies used
+* Python:
+```
+  import datetime
+  import random
+  import re
+  ```
+  
+ * NLP:
+ ```
+ import nltk
+ ```
+ 
+ * Web scrapping:
+ ```
+  import bs4
+  import requests
+  ```
+ 
+ * Email notifications:
+ ```
+ import smtplib
+ import imaplib
+ import email
+ ```
+ 
+ * Voice input & output:
+ ```
+ import speech_recognition as sr
+ import pyttsx3
+ import Pyaudio
+ ```
+ 
 
-* Python IDE 3.5 or >
-* Pycharm 
-* Git 
 
 
 ## Installation of source code from Github
 
 ```
-git clone https://github.com/pradeep2002/chitchat.git
+git clone https://github.com/pradeep2002/Patient-monitoring-Chatbot.git
 cd Chatbot
 python setup.py install
 ```
@@ -57,3 +89,8 @@ python setup.py install
 4. Can't recognize voice properly
    Pronounce correctly in English.
    
+   
+   ## Datasets
+Datasets are already available in this repository.It is enough to train the chatbot.You can also change the dataset according to users convenience .
+Orelse if you want to download datasets you may refer,
+https://github.com/microsoft/BotBuilder-PersonalityChat/blob/master/CSharp/Datasets/README.md
