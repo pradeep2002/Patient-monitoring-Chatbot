@@ -29,36 +29,35 @@ To reduce doctors and health care workers to be affected by Covid-19 spread. The
 
 
 ## Technologies and libraries used
- Python:
+Python:
 ```
-  import datetime
-  import random
-  import re
+import datetime
+import random
+import re
   ```
   
-  NLP:
+NLP:
  ```
- import nltk
+import nltk
  ```
- 
-  Web scrapping:
+Web scrapping:
  ```
-  import bs4
-  import requests
+import bs4
+import requests
   ```
  
-  Email notifications:
+Email notifications:
  ```
- import smtplib
- import imaplib
- import email
+import smtplib
+import imaplib
+import email
  ```
  
-  Voice input & output:
+Voice input & output:
  ```
- import speech_recognition 
- import pyttsx3
- import Pyaudio
+import speech_recognition 
+import pyttsx3
+import Pyaudio
  ```
  
 
