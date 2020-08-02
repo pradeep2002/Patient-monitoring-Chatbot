@@ -2,18 +2,19 @@
 
 In this Covid-19 pandemic situation, many doctors and health care workers are being affected by this virus. Since they need to interact to know about the patient’s body conditions with time. So the method of interaction will be lost when the contact between the patient is reduced. Here comes our Patient Monitoring chatbot to overcome this problem by performing a set of tasks.
 
-## Task Performed
-Here is our Patient Monitoring chatbot, this bot can perform the following tasks
+## Tasks performed
+In this Patient Monitoring chatbot following tasks are performed
 
-* The chatbot is activated only when the wake word is said for example (“Hey PM Robot”).
-* The chatbot then asks for the room number so that it can be used to store the data of the particular patient in that room.
-* Patients can also start chatting with the bot like greeting it, chitchat, etc.
-* The chatbot is very helpful in reporting the blood pressure, pulse rate, and oxygen level in the blood to the doctor.
-* Under the emergency situation, the chatbot will send emergency notifications to the doctor.
+* The chatbot is activated only when the wake word is said for example in this case(“Hey PM Robot”).
+* It then asks for the room number so that it can be used to store the data of the particular patient in that room and to access his/her Gmail accounts.
 * Since the patients are isolated and they are getting stressed very easily,  the chatbot will take a stress test and will report the result to the doctor.
-* The chatbot could also send messages to the doctor and read the messages from the patient’s inbox.
-* The chatbot will also help the patients with getting the headlines from “The Times of India”  news.
-* The chatbot is also capable of telling the current date and time.
+* Patients can also start chatting with the bot like greeting them, chitchat, etc.
+* It is very helpful in reporting the blood pressure, pulse rate, and oxygen level in the blood to the doctor.
+* Under the emergency situation, the chatbot will send emergency notifications to the doctor.
+* It could also send messages to the doctor and read the messages from the patient’s inbox.
+* It will also help the patients to know current headlines from “The Times of India”  news website.
+* It is also capable of telling the current date and time.
+
 
 
 ## Scope of the project
@@ -66,7 +67,7 @@ import Pyaudio
 ```
 git clone https://github.com/pradeep2002/Patient-monitoring-Chatbot.git
 cd Patient-monitoring-Chatbot
-cd main.py
+cd chatbot.py
 ```
 
 ## Datasets
