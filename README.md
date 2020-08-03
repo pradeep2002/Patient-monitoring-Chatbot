@@ -96,5 +96,5 @@ https://github.com/microsoft/BotBuilder-PersonalityChat/blob/master/CSharp/Datas
 ## Demo images
 
 ### Access of bot by wake word
-![alt text](chatbot demo pics/access_chatbot.JPG)
+![Alt Text](chatbot demo pics/access_chatbot.JPG)
    
