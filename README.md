@@ -93,3 +93,8 @@ https://github.com/microsoft/BotBuilder-PersonalityChat/blob/master/CSharp/Datas
 4. Can't recognize voice properly
    Pronounce correctly in English.
    
+## Demo images
+
+### Access of bot by wake word
+![alt text](chatbot demo pics/access_chatbot.JPG)
+   
