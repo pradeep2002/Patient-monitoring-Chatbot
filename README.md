@@ -96,5 +96,15 @@ https://github.com/microsoft/BotBuilder-PersonalityChat/blob/master/CSharp/Datas
 ## Demo images
 
 ### Access of bot by wake word
-![Alt Text](chatbot demo pics/access_chatbot.JPG)
+![Alt Text](https://github.com/pradeep2002/Patient-monitoring-Chatbot/blob/master/chatbot%20demo%20pics/access_chatbot.JPG)
+
+### Stress test
+![Alt Text](https://github.com/pradeep2002/Patient-monitoring-Chatbot/blob/master/chatbot%20demo%20pics/stresstest1.JPG)
+![Alt Text](https://github.com/pradeep2002/Patient-monitoring-Chatbot/blob/master/chatbot%20demo%20pics/stresstest2.JPG)
+
+### Top news
+![Alt Text](https://github.com/pradeep2002/Patient-monitoring-Chatbot/blob/master/chatbot%20demo%20pics/currentnews.JPG)
+
+### Chitchat
+![Alt Text](https://github.com/pradeep2002/Patient-monitoring-Chatbot/blob/master/chatbot%20demo%20pics/chitchat.JPG)
    
